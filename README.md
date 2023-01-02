@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Mohamed Hamed 
-- 👀 I’m  python developer  
+- 👀 I’m  python developer  & competitive programmer
 - 👀 backend Django
 - 🌱 Learning more about and studying :   `machine Learning`
 - 🌱 I’m currently student @CSE zagazig university 3 rd year
