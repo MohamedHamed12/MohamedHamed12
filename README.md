@@ -14,7 +14,7 @@
 - 📫 How to reach me 
 - [my cv ](https://drive.google.com/file/d/1uXJ1_DBNM9w8wCo5P2ccO0kSMcxJwGnR/view?usp=share_link)
 - [Linkedin: Mohamed Hamed](https://www.linkedin.com/in/mohamed-hamed-b0392b198/)
-- [Linkedin: Mohamed Hamed](https://www.facebook.com/profile.php?id=100038680703842)
+- [facebook: Mohamed Hamed](https://www.facebook.com/profile.php?id=100038680703842)
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
