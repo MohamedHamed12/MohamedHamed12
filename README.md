@@ -2,7 +2,7 @@
 - 👀 I’m  python developer  
 - 👀 backend Django
 - 🌱 Learning more about and studying :   `machine Learning`
-- 🌱 I’m currently student @CSE zagazig university 
+- 🌱 I’m currently student @CSE zagazig university 4 rd year
 - 💞️ I'm looking to collaborate on any project to learn and gain experience
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
