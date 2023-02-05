@@ -22,7 +22,7 @@
 - `web-scraping-project`
 - `automation-scripts`
 ### problem solving 
-- `problem_solving`
+- `problems_codeforces_leetcode_...`
 - `problem_solving_snippets`
 ### other
 - `projects_java_cpp_python`
