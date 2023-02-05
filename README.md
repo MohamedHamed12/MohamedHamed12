@@ -14,17 +14,17 @@
 
 ## Repositories Classification
   ### django
-      -[`bookstore-Django`](https://github.com/MohamedHamed12/bookstore-Django) 
+  -[`bookstore-Django`](https://github.com/MohamedHamed12/bookstore-Django) 
   -[`cinema_rest_framwork`](https://github.com/MohamedHamed12/cinema_rest_framwork)
-  - [`social_media_website`](https://github.com/MohamedHamed12/social_media_website_incomplete)
+  -[`social_media_website`](https://github.com/MohamedHamed12/social_media_website_incomplete)
 
-### python
+  ### python
 - [`web-scraping-project`](https://github.com/MohamedHamed12/web_scraping)
 - [`automation-scripts`](https://github.com/MohamedHamed12/automation-python)
-### problem solving 
+  ### problem solving 
 - [`problems_codeforces_leetcode_...`](https://github.com/MohamedHamed12/problem_solving)
 - [`problem_solving_snippets`](https://github.com/MohamedHamed12/problem_solving_snippets)
-### other
+  ### other
 - [`projects_java_cpp_python`](https://github.com/MohamedHamed12/projects_java_cpp_python)
  ### 📫 How to reach me 
 - [my cv ](https://drive.google.com/file/d/1uXJ1_DBNM9w8wCo5P2ccO0kSMcxJwGnR/view?usp=share_link)
