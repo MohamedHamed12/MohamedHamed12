@@ -14,16 +14,16 @@
 
 ## Repositories Classification
   ### django
-  -[`bookstore-Django`](https://github.com/MohamedHamed12/bookstore-Django) 
-  -[`cinema_rest_framwork`](https://github.com/MohamedHamed12/cinema_rest_framwork)
-  -[`social_media_website`](https://github.com/MohamedHamed12/social_media_website_incomplete)
+   -[`bookstore-Django`](https://github.com/MohamedHamed12/bookstore-Django) 
+   -[`cinema_rest_framwork`](https://github.com/MohamedHamed12/cinema_rest_framwork)
+   -[`social_media_website`](https://github.com/MohamedHamed12/social_media_website_incomplete)
 
   ### python
-- [`web-scraping-project`](https://github.com/MohamedHamed12/web_scraping)
-- [`automation-scripts`](https://github.com/MohamedHamed12/automation-python)
+  - [`web-scraping-project`](https://github.com/MohamedHamed12/web_scraping)
+  - [`automation-scripts`](https://github.com/MohamedHamed12/automation-python)
   ### problem solving 
-- [`problems_codeforces_leetcode_...`](https://github.com/MohamedHamed12/problem_solving)
-- [`problem_solving_snippets`](https://github.com/MohamedHamed12/problem_solving_snippets)
+  - [`problems_codeforces_leetcode_...`](https://github.com/MohamedHamed12/problem_solving)
+  - [`problem_solving_snippets`](https://github.com/MohamedHamed12/problem_solving_snippets)
   ### other
 - [`projects_java_cpp_python`](https://github.com/MohamedHamed12/projects_java_cpp_python)
  ### 📫 How to reach me 
