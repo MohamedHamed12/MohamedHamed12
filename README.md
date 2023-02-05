@@ -9,7 +9,7 @@
 - 🚀 [My Leetcode Account](https://leetcode.com/Mohamedh/)
 - 🚀 [My Hackerrank Account](https://www.hackerrank.com/mh1779371)
 - 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
-- 🚀 [My codechef Account](https://www.codechef.com/users/mohamedh)
+- 🚀 [My codechef Account](https://www.codechef.com/users/mohamed_hamed)
 
 
 ## Repositories Classification
