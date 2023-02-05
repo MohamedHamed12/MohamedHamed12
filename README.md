@@ -12,7 +12,7 @@
 - 🚀 [My codechef Account](https://www.codechef.com/users/mohamedh)
 
 
-## Repositories Overview
+## Repositories Classification
 ### django
 - `bookstore-Django` 
 - `cinema_rest_framwork`
