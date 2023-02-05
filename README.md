@@ -11,6 +11,13 @@
 - 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
 - 🚀 [My codechef Account](https://www.codechef.com/users/mohamedh)
 
+
+## Repositories Overview
+- `web-scraping-project`: A project that demonstrates web scraping techniques to extract data from websites.
+- `automation-scripts`: A collection of scripts for automating tasks such as resizing images and organizing files.
+- `cinema-app`: A project that demonstrates the use of the Django Rest Framework (DRF) to build a REST API for a cinema app.
+
+
  ### 📫 How to reach me 
 - [my cv ](https://drive.google.com/file/d/1uXJ1_DBNM9w8wCo5P2ccO0kSMcxJwGnR/view?usp=share_link)
 - [Linkedin: Mohamed Hamed](https://www.linkedin.com/in/mohamed-hamed-b0392b198/)
