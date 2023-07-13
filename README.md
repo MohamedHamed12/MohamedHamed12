@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on any project to learn and gain experience
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
-- 🚀 [My Leetcode Account](https://leetcode.com/Mohamedh/)
+- 🚀 [My Leetcode Account](https://leetcode.com/Mohamed_Hamed/)
 - 🚀 [My Hackerrank Account](https://www.hackerrank.com/mh1779371)
 - 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
 - 🚀 [My codechef Account](https://www.codechef.com/users/mohamed_hamed)
