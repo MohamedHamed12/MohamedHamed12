@@ -1,30 +1,41 @@
 ### 👋 Hi there, I'm Mohamed Hamed 
-- 👀 I’m  python developer  & competitive programmer
-- 👀 backend Django
-- 🌱 Learning more about and studying :   `machine Learning`
-- 🌱 I’m currently student @CSE zagazig university 3 rd year
+- 👀 I’m  Software Engineer & python developer
+- learn Backend (Django -Node Js)
+- AI (machine learning - computer vision )
+- 🌱 I’m currently student @CSE zagazig university 4 rd year
 - 💞️ I'm looking to collaborate on any project to learn and gain experience
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
+- 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
 - 🚀 [My Leetcode Account](https://leetcode.com/Mohamed_Hamed/)
 - 🚀 [My Hackerrank Account](https://www.hackerrank.com/mh1779371)
-- 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
 - 🚀 [My codechef Account](https://www.codechef.com/users/mohamed_hamed)
 
 
 ## Repositories Classification
  ### django
-   - [`smart road`](https://github.com/MohamedHamed12/smartroads) 
+   - [`ecommerce`](https://github.com/MohamedHamed12/Back-End).
+   - [`smart road`](https://github.com/MohamedHamed12/smartroads)
+   - [`Restaurant`](https://github.com/MohamedHamed12/Ecommerce-Restaurant-App)
+   - [`justchat`](https://github.com/MohamedHamed12/justchat)
    - [`bookstore-Django`](https://github.com/MohamedHamed12/bookstore-Django) 
    - [`cinema_rest_framwork`](https://github.com/MohamedHamed12/cinema_rest_framwork)
-   - [`social_media_website`](https://github.com/MohamedHamed12/social_media_website_incomplete)
 
   ### python
+  - [`ORM_Lib`](https://github.com/MohamedHamed12/MH_lib)
   - [`web-scraping-project`](https://github.com/MohamedHamed12/web_scraping)
   - [`automation-scripts`](https://github.com/MohamedHamed12/automation-python)
+  - [`python projects`](https://github.com/MohamedHamed12/python_projects)
+
+  ### AI 
+  - [`Machine learning`](https://github.com/MohamedHamed12/machine_learning)
+  - [`Computer Vision`](https://github.com/MohamedHamed12/Computer_vision)
+  - [`pacman_Multi-Agent`](https://github.com/MohamedHamed12/pacman_Multi-Agent)
+  - [`pacman`](https://github.com/MohamedHamed12/pacman)
   ### problem solving 
   - [`problems_codeforces_leetcode_...`](https://github.com/MohamedHamed12/problem_solving)
   - [`problem_solving_snippets`](https://github.com/MohamedHamed12/problem_solving_snippets)
+    
   ### other
 - [`projects_java_cpp_python`](https://github.com/MohamedHamed12/projects_java_cpp_python)
  ### 📫 How to reach me 
@@ -35,8 +46,8 @@
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
-[<img align="left" alt="java" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.png" />]()
-[<img align="left" alt="java" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.png" />]()
+[<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />]()
+[<img align="left" alt="Node Js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />]()
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />]()
