@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Mohamed Hamed 
-- 👀 I’m  Software Engineer & python developer
-- learn Backend (Django -Node Js)
+- 👀 I’m  Software Engineer || Backend engineer 
+- Backend (Django Rest Framwork -Node Js)
 - AI (machine learning - computer vision )
 - 🌱 I’m currently student @CSE zagazig university 4 rd year
 - 💞️ I'm looking to collaborate on any project to learn and gain experience
