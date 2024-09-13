@@ -18,7 +18,7 @@
    - [`Hospital`](https://github.com/MohamedHamed12/Hospital-Backend).
    - [`justchat`](https://github.com/MohamedHamed12/justchat)
  ### Dotnet
-   - [`Bolg`](https://github.com/MohamedHamed12/Blog_dotnet)
+   - [`Blog`](https://github.com/MohamedHamed12/Blog_dotnet)
  ### Nodejs
    - [`Shopping_MicroServices`](https://github.com/MohamedHamed12/Shopping_MicroServices)
  ### python
