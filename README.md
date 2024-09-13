@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Mohamed Hamed 
-- 👀 I’m  Software Engineer || Backend engineer 
-- Backend (Django Rest Framwork -Node Js)
+- 👀 I’m  Software Engineer || Backend engineer (looking for job)
+- Backend (Django Rest Framwork -Dotnet)
 - AI (machine learning - computer vision )
-- 🌱 I’m currently student @CSE zagazig university 4 rd year
+- 🌱 I graduated from CSE Zagazig University 
 - 💞️ I'm looking to collaborate on any project to learn and gain experience
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅  Goals: Contribute more to Open Source projects
 
 - 🚀 [My codeforces Account](https://codeforces.com/profile/Mohamed_Hamed)
 - 🚀 [My Leetcode Account](https://leetcode.com/Mohamed_Hamed/)
