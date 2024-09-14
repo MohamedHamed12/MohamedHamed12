@@ -42,7 +42,6 @@
  ### 📫 How to reach me 
 <!-- - [my cv ](https://drive.google.com/file/d/1uXJ1_DBNM9w8wCo5P2ccO0kSMcxJwGnR/view?usp=share_link) -->
 - [Linkedin: Mohamed Hamed](https://www.linkedin.com/in/mohamed-hamed-b0392b198/)
-- [facebook: Mohamed Hamed](https://www.facebook.com/profile.php?id=100038680703842)
 
 
 ## Languages and Tools:
