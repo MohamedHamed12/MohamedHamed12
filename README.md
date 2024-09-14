@@ -44,36 +44,58 @@
 - [Linkedin: Mohamed Hamed](https://www.linkedin.com/in/mohamed-hamed-b0392b198/)
 - [facebook: Mohamed Hamed](https://www.facebook.com/profile.php?id=100038680703842)
 
-### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
-[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />]()
-[<img align="left" alt="Dotnet" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />]()
-[<img align="left" alt="Node Js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />]()
-[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
+
+## Languages and Tools:
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />]()
+### Programming Languages
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-
-[<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />]()
-[<img align="left" alt="Panda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />]()
-[<img align="left" alt="Kaggle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" />]()
-
-
-[<img align="left" alt="Sqlite" width="26px" src="https://github.com/devicons/devicon/tree/master/icons/sqlite" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
-[<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
-
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 
 <br />
 
+### Frameworks & Libraries
+[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />]() 
+[<img align="left" alt=".NET" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />]()
+[<img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />]()
+[<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />]()
+[<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]()
+
+
+<br />
+<br />
+
+### Cloud Platforms
+- [<img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />]()
+- [<img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />]()
+
+<br />
+
+### DevOps & Tools
+ - [<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />]()
+[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
+[<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />]()
+
+<br />
+
+### Operating Systems
+[<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />]()
+[<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />]()
+
+<br />
+
+### IDEs & Text Editors
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />]()
+[<img align="left" alt="Vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />]()
+
+<br /><br />
+## progress 🤩
+
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHamed12&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamed12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
