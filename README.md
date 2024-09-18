@@ -96,5 +96,5 @@
 ## progress 🤩
 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHamed12&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Mohamed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamed12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamed12&layout=compact\&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
