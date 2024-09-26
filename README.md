@@ -42,7 +42,7 @@
  #### Nodejs : - [`Shopping_MicroServices`](https://github.com/MohamedHamed12/Shopping_MicroServices)
  #### python - [`ORM_Lib`](https://github.com/MohamedHamed12/MH_lib)-  [`web-scraping-project`](https://github.com/MohamedHamed12/web_scraping) - [`automation-scripts`](https://github.com/MohamedHamed12/automation-python) - [`python projects`](https://github.com/MohamedHamed12/python_projects)
 
-  ### AI - [`Machine learning`](https://github.com/MohamedHamed12/machine_learning) -  [`Computer Vision`](https://github.com/MohamedHamed12/Computer_vision) - [`pacman_Multi-Agent`](https://github.com/MohamedHamed12/pacman_Multi-Agent) -  [`pacman`](https://github.com/MohamedHamed12/pacman)
+  #### AI - [`Machine learning`](https://github.com/MohamedHamed12/machine_learning) -  [`Computer Vision`](https://github.com/MohamedHamed12/Computer_vision) - [`pacman_Multi-Agent`](https://github.com/MohamedHamed12/pacman_Multi-Agent) -  [`pacman`](https://github.com/MohamedHamed12/pacman)
   #### problem solving  - [`problems_codeforces_leetcode_...`](https://github.com/MohamedHamed12/problem_solving) - [`problem_solving_snippets`](https://github.com/MohamedHamed12/problem_solving_snippets)
   #### cpp - [`database_CMU`](https://github.com/MohamedHamed12/database_CMU)
   #### other - [`projects_java_cpp_python`](https://github.com/MohamedHamed12/projects_java_cpp_python)
