@@ -1,105 +1,93 @@
-![👋 Hi, I'm Mohamed Hamed](https://github.com/MohamedHamed12/MohamedHamed12/blob/main/images/github-header-image1.png?raw=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=MohamedHamed12&label=Profile%20Views&color=0e75b6&style=flat)
-
-<h1 align="center">👋 Hi, I'm Mohamed Hamed</h1>
+<h1 align="center">Mohamed Hamed</h1>
 
 <p align="center">
-  Backend & Full-Stack Software Engineer | Problem Solver | Clean Architecture Advocate
+  <strong>Backend & Full-Stack Engineer</strong> · Clean Architecture · Scalable Systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hamed-b0392b198"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohamedHamed12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/MohammedHamedHh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Mohamed_Hamed"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/Mohamed_Hamed"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MohamedHamed12&style=flat-square&color=grey"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/MohamedHamed12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohamed-hamed-b0392b198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/MohammedHamedHh" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+## About
+
+Backend and full-stack engineer with hands-on experience building production ERP systems, microservices, and REST APIs across Python, C#, Java, and Node.js. Strong foundation in competitive programming — **3× ACPC Finalist**, **Top 30 IEEEXtreme Egypt** — which translates directly into writing efficient, well-reasoned code.
+
+Currently at **ABM (Modulus ERP)**, building finance, HR, CRM, and POS modules serving real enterprise clients. Also exploring **Machine Learning & Computer Vision** on the side.
+
+---
+
+## Experience & Skills
+
+| Area | Technologies |
+|------|-------------|
+| **Languages** | Python, C#, Java, TypeScript, JavaScript, C++, PHP |
+| **Backend** | Django REST, ASP.NET Core, Spring Boot, Node.js / Express |
+| **Frontend** | React, Vue.js, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **DevOps** | Docker, GitHub Actions, CI/CD, Azure, AWS |
+| **Architecture** | Microservices, Clean Architecture, REST API design |
+
+---
+
+## Featured Projects
+
+### 🏢 Modulus ERP *(Production — ABM)*
+Enterprise ERP platform covering HR, Finance, CRM, and POS modules.  
+`PHP` `Vue.js` `MySQL`
+
+### 💊 Pharmaceutical Marketplace
+Scalable multi-vendor e-commerce system with payment and inventory services.  
+`Django` `PostgreSQL` `Docker` `Azure`
+
+### 🛒 Shopping Microservices
+Distributed product and order system with async messaging and authentication.  
+`Node.js` `Express` `MongoDB` `RabbitMQ`
+
+### 📝 Blog Management API
+Clean Architecture backend with filtering, sorting, and pagination.  
+`Java` `Spring Boot` `PostgreSQL`
+
+### 🛍️ E-Commerce Frontend
+Full-featured UI with product filtering, search, and auth flows.  
+`React` `Context API` `Tailwind CSS`
+
+---
+
+## Competitive Programming
+
+| Platform | Profile |
+|----------|---------|
+| Codeforces | [Mohamed_Hamed](https://codeforces.com/profile/Mohamed_Hamed) |
+| LeetCode | [Mohamed_Hamed](https://leetcode.com/Mohamed_Hamed) |
+| HackerRank | [mh1779371](https://www.hackerrank.com/mh1779371) |
+| CodeChef | [mohamed_hamed](https://www.codechef.com/users/mohamed_hamed) |
+
+**Highlights:** 3× ACPC Finalist · Top 30 IEEEXtreme Egypt
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedHamed12&theme=react&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedHamed12&theme=react&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 About Me
+## Selected Repositories
 
-I’m a **Software Engineer** specializing in **backend** and **full-stack development**, focused on building **scalable, reliable, and maintainable systems**.  
-I enjoy solving complex problems, optimizing performance, and applying clean and modular architectures.
+**Backend:** [`Ecommerce`](https://github.com/MohamedHamed12/Back-End) · [`Hospital`](https://github.com/MohamedHamed12/Hospital-Backend) · [`JustChat`](https://github.com/MohamedHamed12/justchat) · [`Blog (.NET)`](https://github.com/MohamedHamed12/Blog_dotnet) · [`Shopping Microservices`](https://github.com/MohamedHamed12/Shopping_MicroServices)
 
-- 💼 Currently: Software Engineer at **ABM (Modulus ERP)**
-- 🌱 Learning: **Machine Learning + Computer Vision**
-- 💬 Ask me about: **Python, C#, Django REST, ASP.NET Core, Databases, System Design**
-- 🧠 Competitive Programming: **ACPC Finalist (3x) | Top 30 IEEEXtreme Egypt**
+**Python / Tools:** [`ORM Library`](https://github.com/MohamedHamed12/MH_lib) · [`Automation`](https://github.com/MohamedHamed12/automation-python)
 
----
+**AI / ML:** [`Machine Learning`](https://github.com/MohamedHamed12/machine_learning) · [`Computer Vision`](https://github.com/MohamedHamed12/Computer_vision)
 
-### 🧩 Coding Profiles
-- 🚀 Codeforces: https://codeforces.com/profile/Mohamed_Hamed  
-- 🚀 LeetCode: https://leetcode.com/Mohamed_Hamed  
-- 🚀 HackerRank: https://www.hackerrank.com/mh1779371  
-- 🚀 CodeChef: https://www.codechef.com/users/mohamed_hamed  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-C#, Python, Java, JavaScript, TypeScript, C++, PHP  
-
-**Backend:**  
-ASP.NET Core, Django REST, Spring Boot, Node.js, Express.js  
-
-**Frontend:**  
-React, Vue.js, AngularJS, Tailwind CSS, Bootstrap  
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, SQLite, Redis  
-
-**DevOps & Cloud:**  
-Docker, GitHub Actions, CI/CD, Azure, AWS  
-
-**Tools & Concepts:**  
-Microservices, Clean Architecture, REST APIs, SQL Analytics, Pandas, OpenCV  
-
----
-
-### 📦 Featured Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **Modulus ERP** | PHP · Vue · MySQL | ERP platform with HR, Finance, CRM, POS modules (ABM). |
-| **Pharmaceutical Marketplace** | Django · Docker · Azure · PostgreSQL | Scalable multi-vendor e-commerce system with payment & inventory services. |
-| **Blog Management API** | Java · Spring Boot · PostgreSQL | Clean Architecture backend with filtering, sorting & pagination. |
-| **Shopping Microservices** | Node.js · Express · MongoDB · RabbitMQ | Distributed product + order service with auth & messaging. |
-| **E-Commerce Frontend** | React · Context API · Tailwind CSS | Full-featured UI with filtering, search & auth. |
-
----
-
-### 📚 Repositories
-
-#### Django
-[`Ecommerce`](https://github.com/MohamedHamed12/Back-End) · [`Hospital`](https://github.com/MohamedHamed12/Hospital-Backend) · [`JustChat`](https://github.com/MohamedHamed12/justchat)
-
-#### .NET / C#
-[`Blog`](https://github.com/MohamedHamed12/Blog_dotnet)
-
-#### Node.js
-[`Shopping_MicroServices`](https://github.com/MohamedHamed12/Shopping_MicroServices)
-
-#### Python
-[`ORM_Lib`](https://github.com/MohamedHamed12/MH_lib) · [`Automation`](https://github.com/MohamedHamed12/automation-python)
-
-#### AI & ML
-[`Machine Learning`](https://github.com/MohamedHamed12/machine_learning) · [`Computer Vision`](https://github.com/MohamedHamed12/Computer_vision)
-
-#### Problem Solving
-[`Competitive Solutions`](https://github.com/MohamedHamed12/problem_solving)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedHamed12&theme=react&show_icons=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedHamed12&theme=react" />
-</p>
-
----
+**Problem Solving:** [`Competitive Solutions`](https://github.com/MohamedHamed12/problem_solving)
